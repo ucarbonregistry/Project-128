@@ -4,7 +4,8 @@ ____________________
 The present project activity consist in the generation of electricity by a renewable source (hydroelectric source), through the construction of a Small Hydro Power (SHP) plant called Santana I. This project has been developed by Firenze Energética S/A, a private entity which is an arm of the Interalli Group. The installed capacity of the SHP is 14.758 MW of power and its location is given in the Santana river in the city of Nortelandia, state of Mato Grosso in west-central region of Brazil.
 _____________________________
 Prior History
-
+CDM DOE: Earthood Services Private Limited (ESPL) (ref E- 0066)
+_________________________________
 CDM Registered: Project 2793 : Santana I SHP CDM Project (JUN 1118)
 ___________________
 Authorized Participants: Firenze Energética S/A ; Carbotrader Assessoria e Consultoria em Energia Ltda.
