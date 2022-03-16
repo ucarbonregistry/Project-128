@@ -17,8 +17,10 @@ ______________________________________
 Renewal no longer possible under CDM
 Carbon Credits Issued Under CDM: 
 __________________
-MR Period: 01 Nov 10 - 31 Oct 17
+MR Period: 01 Nov 2010 - 31 Oct 2017
+__________________
 Total amount of CERs: 140,602
+___________________________
 Serial Range: Block start: BR-5-134870967-1-1-0-2793     Block end: BR-5-134882043-1-1-0-2793
 _____________________________________
 Serial Range: Block start: BR-5-134882044-2-2-0-2793     Block end: BR-5-135011568-2-2-0-2793
